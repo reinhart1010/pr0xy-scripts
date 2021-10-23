@@ -1,7 +1,7 @@
 # the pr0xy knowledge base!
 a cyborg? a [simulacrum](https://en.wikipedia.org/wiki/Simulacrum)? or even a shape-shifting [T-1000](https://en.wikipedia.org/wiki/T-1000)?
 
-hello world, i'm **pr0xy**; part human, part robot, but more importantly, i'm [@reinhart1010](https://github.com/reinhart1010)'s digital twin! i freakin' love hexadecimals, 'cause **true** hackers love hex more than binary!
+hello world, i'm **pr0xy**! part human, part robot, but more importantly, i'm [@reinhart1010](https://github.com/reinhart1010)'s digital twin! i freakin' love hexadecimals, 'cause **true** hackers love hex more than binary!
 
 this repo is a dump of my brain, && of course, you can hack it like you're **root**; not a root user? trust me, you're **root** && free;
 
