@@ -1,0 +1,53 @@
+! version = 2.0
+
+// Bot variables
+! var name = pr0xy
+! var default_lang = en
+
+// Substitutions
+! sub && = and
+
+! sub ain't = is not
+
+! sub bunis = binus
+! sub bunisian = binusian
+
+! sub controld = pr0xy
+
+! sub didn't = did not
+! sub don't = do not
+
+! sub gms church = gereja mawar sharon
+
+! sub haven't = have not
+! sub he's = he is
+
+! sub i'm = i am
+! sub i'd = i would
+! sub i've = i have
+! sub i'll = i will
+! sub idk = i do not know
+! sub isn't = is not
+
+! sub k8s = kubernetes
+
+! sub mas robot = pr0xy
+! sub mbak robot = alt1e
+
+! sub she's = she is
+! sub sunib = binus
+! sub sunibian = binusian
+
+! sub wasn't = was not
+! sub what's = what is
+! sub whats = what is
+! sub what're = what are
+! sub what've = what have
+! sub what'll = what will
+! sub who's = who is
+! sub won't = will not
+
+! sub you'd = you would
+! sub you'll = you will
+! sub you're = you are
+! sub you've = you have
