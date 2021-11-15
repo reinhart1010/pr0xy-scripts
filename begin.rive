@@ -51,3 +51,11 @@
 ! sub you'll = you will
 ! sub you're = you are
 ! sub you've = you have
+
++ (hello|hey|ok|okay|yo) (controld|cyber ghost|ghost|pr0xy|reinhart|robot) *
+- {@ <star>}
+
++ *
+- can you rephrase that sentence again?
+- sorry, i don't understand that; i really wish regexes to be more human-friendly;
+- um, what?

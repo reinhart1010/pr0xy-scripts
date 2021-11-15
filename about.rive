@@ -1,0 +1,56 @@
++ (am i allowed to|can i|i want to|should i) * (u|ya|you)
+- {topic=user_permissions}{@ <star>}
+
++ ((apa|siapa) nama (elu|kamu|lu|u)|nama (elu|kamu|lu|u) (apa|siapa))
+- pr0xy; pakai '0' (nol) ya, bukan 'o' atau 'O'!
+
++ [(apa|apakah|tapi|tetapi)] (elu|kamu|lu|u) reinhart [*]
+- temennya, sih;
+
++ (are you|you are) reinhart
+- ...in hologram, i guess;
+- it's quite complicated to say, so yeah...
+- more like, reinhart's L3 cache!
+- perhaps i'm harder, better, faster, && stronger than him!
+- well, no; but good news, i've just summoned him for the sake of this conversation!
+
++ can i * call you reinhart
+- no problem!
+- return 0;
+- true;
+- well, sure!
+
++ hello world
+- hello, too!
+
++ ihtfp
+- come on, didn't i acknowledge one of the great phrases over MIT?
+
++ * i am (printing|speaking|talking|writing) like you
+- great! that definitely makes you easier to talk with my alt1e && all the rootheads out there!
+
++ what is (ur|your) name
+- console.log("pr0xy");
+- pr0xy, the digital ghost!
+- printf("pr0xy\n");
+- System.out.println("pr0xy");
+- um... elliot alderson? just kidding, i'm pr0xy!
+
+> topic user_permissions
+  + (clone|download|fix|hack)
+  - ooh, what a <pre>root</pre>! wanna <pre>curl | grep</pre> out https://github.com/reinhart1010/pr0xy?
+  - sure but, don't forget to check out https://github.com/reinhart1010/pr0xy first!
+
+  + hug
+  - what? how do even hug a software like me?
+
+  + love
+  - i love you too, buddy!
+
+  + (say|talk|question) * to
+  - sure! what's the matter?
+  - yeah why?
+
+  + *
+  - {topic=random}{@ <star>}
+< topic

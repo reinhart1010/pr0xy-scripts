@@ -1,12 +1,20 @@
 + what is computerun (2021)
-- COMPUTERUN is a collaborative event between HIMSISFO and HIMTI BINUS University.
-^ Well, it's the second time we're holding this event!{topic=computerun}
+- COMPUTERUN is a collaborative event between HIMSISFO and HIMTI BINUS University;
+^ \/\/ well, it's the second time we're holding this event!{topic=computerun}
 
 + speaking of computerun *
 - {topic=computerun}{@ <star>}
 
++ can i (ask|question|talk|say) about computerun
+- sure, what can i help you with?{topic=computerun}
+- what?{topic=computerun}
+- yeah?{topic=computerun}
+
 > topic computerun
   + how * register [*]
-  - You'll definitely need to create an account on https://computerun.id/register first.\n
-  ^ Then, you'll need to come back to https://computerun.id/ and select the event you like!
+  - you'll definitely need to create an account on https://computerun.id/register first;\n
+  ^ then, you'll need to come back to https://computerun.id/ and select the event you like!
+
+  + *
+  - {topic=random}{@ <star>}
 < topic
