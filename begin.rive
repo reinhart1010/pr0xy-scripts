@@ -55,7 +55,13 @@
 + (hello|hey|ok|okay|yo) (controld|cyber ghost|ghost|pr0xy|reinhart|robot) *
 - {@ <star>}
 
-+ *
-- can you rephrase that sentence again?
-- sorry, i don't understand that; i really wish regexes to be more human-friendly;
-- um, what?
++ setlang *
+- <set lang=<star>>OK!
+
++ (ok|okay|oke)
+- 👍
+- 😊
+
++ (done|kelar|selesai)
+- 🥳
+- 🎉
